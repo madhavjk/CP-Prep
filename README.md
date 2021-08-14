@@ -1,1 +1,1 @@
-# Competitive-Programming: C++ & Pyth
+# Competitive-Programming: C++ & Python
